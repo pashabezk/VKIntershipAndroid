@@ -1,4 +1,4 @@
-# VKAndroidTest
+# VKVideoUpload
 
 Эта программа умеет:
 * авторизовываться через токен VK;
